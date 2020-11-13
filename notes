@@ -1,0 +1,8 @@
+ 
+ Needed to downgrade to version 16 from 17 to get material ui to install.  Ran the following below.
+ npm install --save react@16.12.0 react-dom@16.12.0
+
+ to upgrade back to 17, type the following:
+  npm install --save react@^17 react-dom@^17
+
+run npm start again after material UI install
