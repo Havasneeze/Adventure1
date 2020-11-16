@@ -11,13 +11,15 @@ import postRoutes from './routes/posts.js';
 
 const app = express();
 
-app.use('/posts', postRoutes);  //this means all routes within postRoutes will start with posts
+
 
 app.use(bodyParser.json({ limit: "30mb", extended: true }));  // sending image that could be large in size
 app.use(bodyParser.urlencoded({ limit: "30mb", extended: true })); // these are to populate sender reqs
 app.use(cors());
 
-const CONNECTION_URL = 'mongodb+srv://Havasneeze1234:MacHava1234@cluster0.7e06h.mongodb.net/<dbname>?retryWrites=true&w=majority';
+app.use('/posts', postRoutes);  //this means all routes within postRoutes will start with posts
+
+const CONNECTION_URL = 'mongodb+srv://Hava:Testing1234@cluster0.vvmrx.mongodb.net/test';
 const PORT = process.env.PORT || 5000;
 
 mongoose.connect(CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: true })
