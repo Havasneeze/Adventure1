@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T07:35:28.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="i8KKLp8dXu8geoR33UXr" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T20:46:30.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="iILlK0RQ3meyEaztmdRk" version="13.9.6" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1577" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1232" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Index.js&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Index.js&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+        <mxCell id="2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Index.js&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Index.js&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;labelBackgroundColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="270" y="350" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Server" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
@@ -35,22 +35,22 @@
           <mxGeometry x="1295" y="360" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-119" value="Redux" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="1295" y="590" width="130" height="60" as="geometry" />
+          <mxGeometry x="1295" y="720" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RhGpHAD1b_R5H_3nvblY-121" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;ActionCreators.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="1340" y="670" width="120" height="40" as="geometry" />
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-121" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;ActionCreators.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;labelBackgroundColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RhGpHAD1b_R5H_3nvblY-122" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;ActionTypes.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="1340" y="720" width="120" height="40" as="geometry" />
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-122" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;ActionTypes.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;labelBackgroundColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhGpHAD1b_R5H_3nvblY-123" target="RhGpHAD1b_R5H_3nvblY-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RhGpHAD1b_R5H_3nvblY-123" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;App.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="870" y="730" width="120" height="40" as="geometry" />
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-123" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;App.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;labelBackgroundColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="970" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-131" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="870" y="550" width="120" height="100" as="geometry" />
+          <mxGeometry x="970" y="550" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-97" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Index.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="RhGpHAD1b_R5H_3nvblY-131">
           <mxGeometry width="120" height="100" as="geometry" />
@@ -61,33 +61,85 @@
         <mxCell id="RhGpHAD1b_R5H_3nvblY-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhGpHAD1b_R5H_3nvblY-134" target="RhGpHAD1b_R5H_3nvblY-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RhGpHAD1b_R5H_3nvblY-134" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;HeaderComponent.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-134" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;HeaderComponent.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;labelBackgroundColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="1340" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RhGpHAD1b_R5H_3nvblY-135" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;MainComponent.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-135" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;MainComponent.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;labelBackgroundColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="1340" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RhGpHAD1b_R5H_3nvblY-97" target="RhGpHAD1b_R5H_3nvblY-98">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1000" y="600" />
-              <mxPoint x="1000" y="660" />
-              <mxPoint x="1210" y="660" />
+              <mxPoint x="1210" y="600" />
               <mxPoint x="1210" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RhGpHAD1b_R5H_3nvblY-138" value="1. Load all the dependancies&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Set up server&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Set up Routers&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-138" value="1. Load all the dependancies&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Set up server&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Set up Routers in server&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1790" y="410" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-144" value="&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;A&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;reducer&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;is a function that determines changes to an application&#39;s state. It uses the action it receives to determine this change.&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1475" y="1050" width="350" height="20" as="geometry" />
+          <mxGeometry x="1390" y="1310" width="350" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-145" value="&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;dispatch&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;is a function of the&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Redux&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;store. You call store.&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;dispatch&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;to&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;dispatch&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;an&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;action&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;. This is the only way to trigger a state change. With React&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Redux&lt;/b&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;quot;roboto&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;, your components never access the store directly - connect does it for you.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1070" width="260" height="20" as="geometry" />
+          <mxGeometry x="960" y="1330" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-146" value="&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;State&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;(also called the&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;state&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;tree) is a broad term, but in the&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Redux&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;API it usually refers to the single&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;state&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;value that is managed by the store and returned by getState() . It represents the entire&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;state&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;of a&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Redux&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;application, which is often a deeply nested object.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1060" width="350" height="20" as="geometry" />
+          <mxGeometry x="1930" y="1340" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-148" value="&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Introduction.&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Redux&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;and React&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Router&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;are two of the most used React libraries.&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Redux&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;is used for app state management, while React&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Router&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;is used for&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;routing&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;. In a majority of apps, it&#39;s necessary to communicate between the app state and the&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;router&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: roboto, arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;. Usually, this is in response to an initial user action.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1330" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-150" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Reducer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-152" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Action&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-154" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Dispatch&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-155" value="&lt;font style=&quot;font-size: 20px&quot;&gt;State&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-156" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Redux Store&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="1645" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-157" value="Controllers" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-158" value="Models" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="480" y="490" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-159" value="Routes" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="480" y="670" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-160" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Posts.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;labelBackgroundColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-161" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;postMessage.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;labelBackgroundColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-162" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Posts.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;labelBackgroundColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="550" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-163" value="" style="endArrow=none;html=1;entryX=0.882;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RhGpHAD1b_R5H_3nvblY-160" target="RhGpHAD1b_R5H_3nvblY-157">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="390" as="sourcePoint" />
+            <mxPoint x="650" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-164" value="" style="endArrow=none;html=1;entryX=0.882;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602.67" y="588.02" as="sourcePoint" />
+            <mxPoint x="597.3300000000003" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-165" value="" style="endArrow=none;html=1;entryX=0.882;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="607.67" y="768.02" as="sourcePoint" />
+            <mxPoint x="602.3300000000003" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
