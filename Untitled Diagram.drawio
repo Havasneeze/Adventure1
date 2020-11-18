@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T22:09:36.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_HxW1-5o9Ejh74kVunUk" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T23:05:03.433Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-46eqJIq0nLe3xTn58I-" version="13.9.6" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1081" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1620" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="1295" y="190" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-101" value="This is where &#xa;we connect our &#xa;react application to &#xa;the index.html file." style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="880" y="560" width="30" height="20" as="geometry" />
+          <mxGeometry x="950" y="560" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-115" value="Components" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="1295" y="360" width="130" height="60" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-123" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;App.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;labelBackgroundColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="970" y="730" width="120" height="40" as="geometry" />
+          <mxGeometry x="1040" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-131" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="970" y="550" width="120" height="100" as="geometry" />
+          <mxGeometry x="1040" y="550" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-97" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Index.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="RhGpHAD1b_R5H_3nvblY-131">
           <mxGeometry width="120" height="100" as="geometry" />
@@ -75,8 +75,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RhGpHAD1b_R5H_3nvblY-138" value="1. Load all the dependancies&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Set up server&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Set up Routers in server&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="410" width="280" height="20" as="geometry" />
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-138" value="1. Load all the dependancies&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Set up server&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Set up Routers in server&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;4. Set up UI on client side&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="190" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RhGpHAD1b_R5H_3nvblY-144" value="&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;A&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;reducer&lt;/b&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;is a function that determines changes to an application&#39;s state. It uses the action it receives to determine this change.&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1310" width="350" height="20" as="geometry" />
