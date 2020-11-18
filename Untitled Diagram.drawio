@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T20:09:43.004Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="fxqkYfxs_nitlBkqh94Z" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T03:50:25.017Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="icrFgCmJQl9woWjYJIzV" version="13.9.6" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1289" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System Study&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Preparation&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="400" y="470" width="110" height="90" as="geometry" />
+        <mxCell id="2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Index.js&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Index.js&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
+          <mxGeometry x="270" y="300" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Engineering" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="230" y="210" width="90" height="60" as="geometry" />
@@ -19,15 +19,71 @@
             <mxPoint x="300" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="52" value="Desired &#xa;functionality" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
-          <mxGeometry x="260" y="380" width="30" height="20" as="geometry" />
+        <mxCell id="52" value="Starting point &#xa;of server" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
+          <mxGeometry x="200" y="350" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="56" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" source="2" target="5" edge="1">
+        <mxCell id="56" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2" target="5" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="230" y="690" as="sourcePoint" />
+            <mxPoint x="390" y="345" as="sourcePoint" />
             <mxPoint x="330" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="550" />
+              <mxPoint x="420" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-98" value="SRC" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="1230" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-99" value="Client" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="1295" y="190" width="400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RhGpHAD1b_R5H_3nvblY-101" target="RhGpHAD1b_R5H_3nvblY-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-101" value="This is where &#xa;we connect our &#xa;react application to &#xa;the index.html file." style="text;spacingTop=-5;align=center" vertex="1" parent="1">
+          <mxGeometry x="1470" y="890" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-115" value="Components" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="1295" y="360" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-119" value="Redux" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="1295" y="590" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-121" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;ActionCreators.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="1340" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-122" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;ActionTypes.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="1340" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhGpHAD1b_R5H_3nvblY-123" target="RhGpHAD1b_R5H_3nvblY-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-123" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;App.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-131" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1250" y="860" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-97" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Index.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="RhGpHAD1b_R5H_3nvblY-131">
+          <mxGeometry width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-130" value="ReactDom&lt;br&gt;.render &amp;lt;App /&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RhGpHAD1b_R5H_3nvblY-131">
+          <mxGeometry x="40" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RhGpHAD1b_R5H_3nvblY-134" target="RhGpHAD1b_R5H_3nvblY-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-134" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;HeaderComponent.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="1340" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-135" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;MainComponent.js&lt;/strong&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="1340" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RhGpHAD1b_R5H_3nvblY-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RhGpHAD1b_R5H_3nvblY-97" target="RhGpHAD1b_R5H_3nvblY-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="910" />
+              <mxPoint x="1210" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
